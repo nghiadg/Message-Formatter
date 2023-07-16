@@ -1,0 +1,29 @@
+:root {
+    --bs-darksea: #2c3e50;
+    --bs-active: #18bc9c;
+}
+
+body {
+    background-color: #18bc9c;
+}
+
+.bg-darksea {
+    background-color: var(--bs-darksea);
+}
+
+.text-editor {
+    color: #fff;
+    opacity: .8;
+}
+
+.fs-small {
+    font-size: 12px;
+}
+
+.w-4 {
+    width: 1rem;
+}
+
+.h-4 {
+    height: 1rem;
+}
